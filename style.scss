@@ -16,7 +16,7 @@
 html {
   font-size: 100%;
 }
-
+// this piece of text fixes the background and also is the picture of the background
 body {
 background: url(https:///bgfons.com/upload/cloth_texture1065.jpg);
 background-repeat: no-repeat;
@@ -25,7 +25,7 @@ background-position: center;
 font: 18px/1.4 $helvetica;
 color: #57BC90;
 }
-
+// this controles the container that surrounds the text
 .container {
   margin: 0 auto;
   max-width: 850px;
@@ -37,7 +37,7 @@ color: #57BC90;
 	border-bottom: 1px #b0d7f4;
 ;
 }
-
+// line 43 id=s the colour of text
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: #42a7f4;
