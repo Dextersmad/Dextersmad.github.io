@@ -1,5 +1,5 @@
 ---
-title: their first lesson on Codecademy
+title: the first lesson on Codecademy
 layout: post
 author: nikolai.phillips
 permalink: /their-first-lesson-on-codecademy/
